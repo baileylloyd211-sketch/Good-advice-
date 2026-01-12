@@ -11,7 +11,7 @@ APP_TITLE = "Lens Readout"
 DEFAULT_LENSES = ["relationship", "finance", "goals"]  # rename as you want
 
 # IMPORTANT: use the *embed* URL, not forms.gle
-GOOGLE_FORM_EMBED_URL = "PASTE_YOUR_EMBED_URL_HERE"  # e.g. https://docs.google.com/forms/d/e/.../viewform?embedded=true
+GOOGLE_FORM_EMBED_URL = "<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSciFAyvy7W5cwepglPL_zrC0PfoQK951sbuO_1eMCPfZ6fW9w/viewform?embedded=true" width="640" height="1118" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>"  # e.g. https://docs.google.com/forms/d/e/.../viewform?embedded=true
 
 # ---------------------------------------------------------
 # Question Bank (YOU will paste your question dicts here)
